@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" filepath="$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-Bootcamp-Java.iml" filepath="$PROJECT_DIR$/.idea/DSA-Bootcamp-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Program/First_Program.iml" filepath="$PROJECT_DIR$/First_Program/First_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathForDSA/MathForDSA.iml" filepath="$PROJECT_DIR$/MathForDSA/MathForDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditions-loops/conditions-loops.iml" filepath="$PROJECT_DIR$/conditions-loops/conditions-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/linearsearch.iml" filepath="$PROJECT_DIR$/linearsearch/linearsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch/switch.iml" filepath="$PROJECT_DIR$/switch/switch.iml" />
+    </modules>
+  </component>
+</project>
