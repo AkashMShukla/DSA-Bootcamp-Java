@@ -1,25 +1,25 @@
-### Java Template
-# Compiled class file
-*.class
-
-# log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-
-# Virtual Machine crush logs, see http://www.java.com/en/downloadhelp/error_hotspot.xml
-hs_err_pid*
-
-.idea
-*.iml
+#### Java Template
+## Compiled class file
+#*.class
+#
+## log file
+#*.log
+#
+## BlueJ files
+#*.ctxt
+#
+## Mobile Tools for Java (J2ME)
+#.mtj.tmp/
+#
+## Package files #
+#*.jar
+#*.war
+#*.ear
+#*.zip
+#*.tar.gz
+#
+## Virtual Machine crush logs, see http://www.java.com/en/downloadhelp/error_hotspot.xml
+#hs_err_pid*
+#
+#.idea
+#*.iml
